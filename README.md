@@ -1,5 +1,7 @@
 # AnonAgents - Anonymous Token Creation Platform
 
+[![AnonAgentsMovie](https://img.youtube.com/vi/BpwxZHt0-3w/0.jpg)](https://www.youtube.com/watch?v=BpwxZHt0-3w)
+
 ## 🚀 Overview
 
 AnonAgents is a groundbreaking decentralized platform that enables anonymous token creation with built-in anti-sniper protection. By leveraging zero-knowledge proofs through zkVerify on Sepolia and deploying on the Base network, we ensure complete anonymity while maintaining security and preventing malicious trading activities.
