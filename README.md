@@ -2,6 +2,18 @@
 
 [![AnonAgentsMovie](https://img.youtube.com/vi/BpwxZHt0-3w/0.jpg)](https://www.youtube.com/watch?v=BpwxZHt0-3w)
 
+
+## 🏆 Awards & Recognition
+
+AnonAgents was honored as one of the winners of the zkVerify Hackathon! The project was recognized for its innovative approach to:
+- Permissionless automation
+- Anonymity in token creation and trading
+- Seamless dApp integration
+- Empowering Web3 with private, secure, and automated task execution
+
+[View Project on Devfolio](https://devfolio.co/projects/anonagents-fe58)
+[View on X](https://x.com/ZKVProtocol/status/1872349169790427171)
+
 ## 🚀 Overview
 
 AnonAgents is a groundbreaking decentralized platform that enables anonymous token creation with built-in anti-sniper protection. By leveraging zero-knowledge proofs through zkVerify on Sepolia and deploying on the Base network, we ensure complete anonymity while maintaining security and preventing malicious trading activities.
